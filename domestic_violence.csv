@@ -1,0 +1,396 @@
+,Police region,DFFH region,Local government area,Financial year,Incidents,Period,Rate_per_100k
+14,Eastern,Goulburn,Greater Shepparton,2019-20,1611,2020-06-30 00:00:00,2352.7
+93,Eastern,Goulburn,Greater Shepparton,2020-21,1623,2021-06-30 00:00:00,2368.4
+172,Eastern,Goulburn,Greater Shepparton,2021-22,1726,2022-06-30 00:00:00,2502.8
+251,Eastern,Goulburn,Greater Shepparton,2022-23,1746,2023-06-30 00:00:00,2525.5
+330,Eastern,Goulburn,Greater Shepparton,2023-24,2062,2024-06-30 00:00:00,2970.9
+15,Eastern,Goulburn,Mitchell,2019-20,1092,2020-06-30 00:00:00,2271.5
+94,Eastern,Goulburn,Mitchell,2020-21,1222,2021-06-30 00:00:00,2458.2
+173,Eastern,Goulburn,Mitchell,2021-22,984,2022-06-30 00:00:00,1904
+252,Eastern,Goulburn,Mitchell,2022-23,1092,2023-06-30 00:00:00,2032.6
+331,Eastern,Goulburn,Mitchell,2023-24,1327,2024-06-30 00:00:00,2371.8
+16,Eastern,Goulburn,Moira,2019-20,457,2020-06-30 00:00:00,1508.4
+95,Eastern,Goulburn,Moira,2020-21,495,2021-06-30 00:00:00,1630.1
+174,Eastern,Goulburn,Moira,2021-22,480,2022-06-30 00:00:00,1569.4
+253,Eastern,Goulburn,Moira,2022-23,624,2023-06-30 00:00:00,2027.6
+332,Eastern,Goulburn,Moira,2023-24,648,2024-06-30 00:00:00,2086.3
+17,Eastern,Goulburn,Murrindindi,2019-20,191,2020-06-30 00:00:00,1284.3
+96,Eastern,Goulburn,Murrindindi,2020-21,208,2021-06-30 00:00:00,1373.9
+175,Eastern,Goulburn,Murrindindi,2021-22,217,2022-06-30 00:00:00,1413.4
+254,Eastern,Goulburn,Murrindindi,2022-23,187,2023-06-30 00:00:00,1207.9
+333,Eastern,Goulburn,Murrindindi,2023-24,187,2024-06-30 00:00:00,1201.1
+18,Eastern,Goulburn,Strathbogie,2019-20,152,2020-06-30 00:00:00,1362.3
+97,Eastern,Goulburn,Strathbogie,2020-21,184,2021-06-30 00:00:00,1618.6
+176,Eastern,Goulburn,Strathbogie,2021-22,165,2022-06-30 00:00:00,1432.9
+255,Eastern,Goulburn,Strathbogie,2022-23,145,2023-06-30 00:00:00,1252.4
+334,Eastern,Goulburn,Strathbogie,2023-24,148,2024-06-30 00:00:00,1275.4
+19,Eastern,Inner Eastern Melbourne,Boroondara,2019-20,950,2020-06-30 00:00:00,534.1
+98,Eastern,Inner Eastern Melbourne,Boroondara,2020-21,991,2021-06-30 00:00:00,583.7
+177,Eastern,Inner Eastern Melbourne,Boroondara,2021-22,1020,2022-06-30 00:00:00,601.3
+256,Eastern,Inner Eastern Melbourne,Boroondara,2022-23,1047,2023-06-30 00:00:00,599.9
+335,Eastern,Inner Eastern Melbourne,Boroondara,2023-24,1075,2024-06-30 00:00:00,603.7
+20,Eastern,Inner Eastern Melbourne,Manningham,2019-20,764,2020-06-30 00:00:00,596.9
+99,Eastern,Inner Eastern Melbourne,Manningham,2020-21,915,2021-06-30 00:00:00,727.2
+178,Eastern,Inner Eastern Melbourne,Manningham,2021-22,948,2022-06-30 00:00:00,749
+257,Eastern,Inner Eastern Melbourne,Manningham,2022-23,1002,2023-06-30 00:00:00,773.7
+336,Eastern,Inner Eastern Melbourne,Manningham,2023-24,1020,2024-06-30 00:00:00,773.6
+21,Eastern,Inner Eastern Melbourne,Monash,2019-20,1446,2020-06-30 00:00:00,720.2
+100,Eastern,Inner Eastern Melbourne,Monash,2020-21,1810,2021-06-30 00:00:00,938.3
+179,Eastern,Inner Eastern Melbourne,Monash,2021-22,1951,2022-06-30 00:00:00,1000.1
+258,Eastern,Inner Eastern Melbourne,Monash,2022-23,1847,2023-06-30 00:00:00,907.3
+337,Eastern,Inner Eastern Melbourne,Monash,2023-24,1926,2024-06-30 00:00:00,916.3
+22,Eastern,Inner Eastern Melbourne,Whitehorse,2019-20,1301,2020-06-30 00:00:00,735.9
+101,Eastern,Inner Eastern Melbourne,Whitehorse,2020-21,1461,2021-06-30 00:00:00,854
+180,Eastern,Inner Eastern Melbourne,Whitehorse,2021-22,1379,2022-06-30 00:00:00,798.9
+259,Eastern,Inner Eastern Melbourne,Whitehorse,2022-23,1470,2023-06-30 00:00:00,822.9
+338,Eastern,Inner Eastern Melbourne,Whitehorse,2023-24,1524,2024-06-30 00:00:00,837.5
+23,Eastern,Inner Gippsland,Bass Coast,2019-20,738,2020-06-30 00:00:00,1894.7
+102,Eastern,Inner Gippsland,Bass Coast,2020-21,967,2021-06-30 00:00:00,2377.4
+181,Eastern,Inner Gippsland,Bass Coast,2021-22,878,2022-06-30 00:00:00,2099.8
+260,Eastern,Inner Gippsland,Bass Coast,2022-23,784,2023-06-30 00:00:00,1834.8
+339,Eastern,Inner Gippsland,Bass Coast,2023-24,863,2024-06-30 00:00:00,1990.6
+24,Eastern,Inner Gippsland,Baw Baw,2019-20,788,2020-06-30 00:00:00,1413.4
+103,Eastern,Inner Gippsland,Baw Baw,2020-21,1020,2021-06-30 00:00:00,1770.3
+182,Eastern,Inner Gippsland,Baw Baw,2021-22,943,2022-06-30 00:00:00,1590.8
+261,Eastern,Inner Gippsland,Baw Baw,2022-23,955,2023-06-30 00:00:00,1574.8
+340,Eastern,Inner Gippsland,Baw Baw,2023-24,1283,2024-06-30 00:00:00,2095.9
+25,Eastern,Inner Gippsland,Latrobe,2019-20,2389,2020-06-30 00:00:00,3114.2
+104,Eastern,Inner Gippsland,Latrobe,2020-21,2530,2021-06-30 00:00:00,3280.7
+183,Eastern,Inner Gippsland,Latrobe,2021-22,2559,2022-06-30 00:00:00,3293.2
+262,Eastern,Inner Gippsland,Latrobe,2022-23,2570,2023-06-30 00:00:00,3288.4
+341,Eastern,Inner Gippsland,Latrobe,2023-24,3058,2024-06-30 00:00:00,3891.8
+26,Eastern,Inner Gippsland,South Gippsland,2019-20,408,2020-06-30 00:00:00,1347.8
+105,Eastern,Inner Gippsland,South Gippsland,2020-21,532,2021-06-30 00:00:00,1750.7
+184,Eastern,Inner Gippsland,South Gippsland,2021-22,540,2022-06-30 00:00:00,1758.5
+263,Eastern,Inner Gippsland,South Gippsland,2022-23,514,2023-06-30 00:00:00,1667.6
+342,Eastern,Inner Gippsland,South Gippsland,2023-24,577,2024-06-30 00:00:00,1863.5
+27,Eastern,Outer Eastern Melbourne,Knox,2019-20,1911,2020-06-30 00:00:00,1170.7
+106,Eastern,Outer Eastern Melbourne,Knox,2020-21,1949,2021-06-30 00:00:00,1214.5
+185,Eastern,Outer Eastern Melbourne,Knox,2021-22,1939,2022-06-30 00:00:00,1215.3
+264,Eastern,Outer Eastern Melbourne,Knox,2022-23,1970,2023-06-30 00:00:00,1217.8
+343,Eastern,Outer Eastern Melbourne,Knox,2023-24,2003,2024-06-30 00:00:00,1228.9
+28,Eastern,Outer Eastern Melbourne,Maroondah,2019-20,1306,2020-06-30 00:00:00,1104
+107,Eastern,Outer Eastern Melbourne,Maroondah,2020-21,1407,2021-06-30 00:00:00,1212.1
+186,Eastern,Outer Eastern Melbourne,Maroondah,2021-22,1385,2022-06-30 00:00:00,1196.5
+265,Eastern,Outer Eastern Melbourne,Maroondah,2022-23,1346,2023-06-30 00:00:00,1146.2
+344,Eastern,Outer Eastern Melbourne,Maroondah,2023-24,1410,2024-06-30 00:00:00,1186.7
+29,Eastern,Outer Eastern Melbourne,Yarra Ranges,2019-20,1791,2020-06-30 00:00:00,1127.3
+108,Eastern,Outer Eastern Melbourne,Yarra Ranges,2020-21,1727,2021-06-30 00:00:00,1097.1
+187,Eastern,Outer Eastern Melbourne,Yarra Ranges,2021-22,1964,2022-06-30 00:00:00,1247.2
+266,Eastern,Outer Eastern Melbourne,Yarra Ranges,2022-23,1977,2023-06-30 00:00:00,1245.8
+345,Eastern,Outer Eastern Melbourne,Yarra Ranges,2023-24,2019,2024-06-30 00:00:00,1265.3
+30,Eastern,Outer Gippsland,East Gippsland,2019-20,1539,2020-06-30 00:00:00,3214.7
+109,Eastern,Outer Gippsland,East Gippsland,2020-21,1568,2021-06-30 00:00:00,3234.5
+188,Eastern,Outer Gippsland,East Gippsland,2021-22,1646,2022-06-30 00:00:00,3363.4
+267,Eastern,Outer Gippsland,East Gippsland,2022-23,1587,2023-06-30 00:00:00,3227
+346,Eastern,Outer Gippsland,East Gippsland,2023-24,2013,2024-06-30 00:00:00,4076.2
+31,Eastern,Outer Gippsland,Wellington,2019-20,1411,2020-06-30 00:00:00,3128.3
+110,Eastern,Outer Gippsland,Wellington,2020-21,1344,2021-06-30 00:00:00,2955.9
+189,Eastern,Outer Gippsland,Wellington,2021-22,1218,2022-06-30 00:00:00,2658.3
+268,Eastern,Outer Gippsland,Wellington,2022-23,1354,2023-06-30 00:00:00,2935.6
+347,Eastern,Outer Gippsland,Wellington,2023-24,1332,2024-06-30 00:00:00,2866.6
+32,Eastern,Ovens Murray,Alpine,2019-20,122,2020-06-30 00:00:00,934.6
+111,Eastern,Ovens Murray,Alpine,2020-21,154,2021-06-30 00:00:00,1169.7
+190,Eastern,Ovens Murray,Alpine,2021-22,141,2022-06-30 00:00:00,1068.9
+269,Eastern,Ovens Murray,Alpine,2022-23,148,2023-06-30 00:00:00,1122.7
+348,Eastern,Ovens Murray,Alpine,2023-24,126,2024-06-30 00:00:00,955.1
+33,Eastern,Ovens Murray,Benalla,2019-20,387,2020-06-30 00:00:00,2690.9
+112,Eastern,Ovens Murray,Benalla,2020-21,388,2021-06-30 00:00:00,2687.7
+191,Eastern,Ovens Murray,Benalla,2021-22,362,2022-06-30 00:00:00,2502.9
+270,Eastern,Ovens Murray,Benalla,2022-23,423,2023-06-30 00:00:00,2911.4
+349,Eastern,Ovens Murray,Benalla,2023-24,355,2024-06-30 00:00:00,2430.6
+34,Eastern,Ovens Murray,Indigo,2019-20,159,2020-06-30 00:00:00,929
+113,Eastern,Ovens Murray,Indigo,2020-21,158,2021-06-30 00:00:00,915.9
+192,Eastern,Ovens Murray,Indigo,2021-22,191,2022-06-30 00:00:00,1096.1
+271,Eastern,Ovens Murray,Indigo,2022-23,202,2023-06-30 00:00:00,1143.7
+350,Eastern,Ovens Murray,Indigo,2023-24,175,2024-06-30 00:00:00,982.9
+35,Eastern,Ovens Murray,Mansfield,2019-20,109,2020-06-30 00:00:00,1113.2
+114,Eastern,Ovens Murray,Mansfield,2020-21,122,2021-06-30 00:00:00,1205.4
+193,Eastern,Ovens Murray,Mansfield,2021-22,122,2022-06-30 00:00:00,1180.1
+272,Eastern,Ovens Murray,Mansfield,2022-23,84,2023-06-30 00:00:00,796.5
+351,Eastern,Ovens Murray,Mansfield,2023-24,136,2024-06-30 00:00:00,1269.4
+36,Eastern,Ovens Murray,Towong,2019-20,44,2020-06-30 00:00:00,713.1
+115,Eastern,Ovens Murray,Towong,2020-21,66,2021-06-30 00:00:00,1066.9
+194,Eastern,Ovens Murray,Towong,2021-22,32,2022-06-30 00:00:00,516.3
+273,Eastern,Ovens Murray,Towong,2022-23,87,2023-06-30 00:00:00,1393.6
+352,Eastern,Ovens Murray,Towong,2023-24,76,2024-06-30 00:00:00,1209
+37,Eastern,Ovens Murray,Wangaratta,2019-20,582,2020-06-30 00:00:00,1971.7
+116,Eastern,Ovens Murray,Wangaratta,2020-21,634,2021-06-30 00:00:00,2131
+195,Eastern,Ovens Murray,Wangaratta,2021-22,618,2022-06-30 00:00:00,2065.9
+274,Eastern,Ovens Murray,Wangaratta,2022-23,631,2023-06-30 00:00:00,2103.2
+353,Eastern,Ovens Murray,Wangaratta,2023-24,647,2024-06-30 00:00:00,2149.4
+38,Eastern,Ovens Murray,Wodonga,2019-20,837,2020-06-30 00:00:00,1961.7
+117,Eastern,Ovens Murray,Wodonga,2020-21,769,2021-06-30 00:00:00,1779.8
+196,Eastern,Ovens Murray,Wodonga,2021-22,918,2022-06-30 00:00:00,2099.9
+275,Eastern,Ovens Murray,Wodonga,2022-23,1071,2023-06-30 00:00:00,2418.9
+354,Eastern,Ovens Murray,Wodonga,2023-24,1056,2024-06-30 00:00:00,2361.6
+0,North West Metro,Brimbank Melton,Brimbank,2019-20,2945,2020-06-30 00:00:00,1442.1
+79,North West Metro,Brimbank Melton,Brimbank,2020-21,2989,2021-06-30 00:00:00,1520.1
+158,North West Metro,Brimbank Melton,Brimbank,2021-22,2754,2022-06-30 00:00:00,1424.1
+237,North West Metro,Brimbank Melton,Brimbank,2022-23,2841,2023-06-30 00:00:00,1449.1
+316,North West Metro,Brimbank Melton,Brimbank,2023-24,2994,2024-06-30 00:00:00,1510.8
+1,North West Metro,Brimbank Melton,Melton,2019-20,2870,2020-06-30 00:00:00,1653.5
+80,North West Metro,Brimbank Melton,Melton,2020-21,3088,2021-06-30 00:00:00,1702.8
+159,North West Metro,Brimbank Melton,Melton,2021-22,2881,2022-06-30 00:00:00,1490.5
+238,North West Metro,Brimbank Melton,Melton,2022-23,2811,2023-06-30 00:00:00,1364.1
+317,North West Metro,Brimbank Melton,Melton,2023-24,3235,2024-06-30 00:00:00,1506
+2,North West Metro,Hume Merri-bek,Hume,2019-20,4219,2020-06-30 00:00:00,1731.6
+81,North West Metro,Hume Merri-bek,Hume,2020-21,4185,2021-06-30 00:00:00,1694.9
+160,North West Metro,Hume Merri-bek,Hume,2021-22,3760,2022-06-30 00:00:00,1485.1
+239,North West Metro,Hume Merri-bek,Hume,2022-23,3641,2023-06-30 00:00:00,1385.7
+318,North West Metro,Hume Merri-bek,Hume,2023-24,3635,2024-06-30 00:00:00,1344.2
+3,North West Metro,Hume Merri-bek,Merri-bek,2019-20,2010,2020-06-30 00:00:00,1116.5
+82,North West Metro,Hume Merri-bek,Merri-bek,2020-21,1941,2021-06-30 00:00:00,1118.7
+161,North West Metro,Hume Merri-bek,Merri-bek,2021-22,1996,2022-06-30 00:00:00,1141.3
+240,North West Metro,Hume Merri-bek,Merri-bek,2022-23,1987,2023-06-30 00:00:00,1096.4
+319,North West Metro,Hume Merri-bek,Merri-bek,2023-24,1786,2024-06-30 00:00:00,946.7
+4,North West Metro,North Eastern Melbourne,Banyule,2019-20,1383,2020-06-30 00:00:00,1061.4
+83,North West Metro,North Eastern Melbourne,Banyule,2020-21,1359,2021-06-30 00:00:00,1067
+162,North West Metro,North Eastern Melbourne,Banyule,2021-22,1194,2022-06-30 00:00:00,937
+241,North West Metro,North Eastern Melbourne,Banyule,2022-23,1163,2023-06-30 00:00:00,897.4
+320,North West Metro,North Eastern Melbourne,Banyule,2023-24,1412,2024-06-30 00:00:00,1060.8
+5,North West Metro,North Eastern Melbourne,Darebin,2019-20,1801,2020-06-30 00:00:00,1146.7
+84,North West Metro,North Eastern Melbourne,Darebin,2020-21,1873,2021-06-30 00:00:00,1246.2
+163,North West Metro,North Eastern Melbourne,Darebin,2021-22,1631,2022-06-30 00:00:00,1083
+242,North West Metro,North Eastern Melbourne,Darebin,2022-23,1715,2023-06-30 00:00:00,1101.6
+321,North West Metro,North Eastern Melbourne,Darebin,2023-24,1766,2024-06-30 00:00:00,1107.9
+6,North West Metro,North Eastern Melbourne,Nillumbik,2019-20,512,2020-06-30 00:00:00,796
+85,North West Metro,North Eastern Melbourne,Nillumbik,2020-21,506,2021-06-30 00:00:00,797.5
+164,North West Metro,North Eastern Melbourne,Nillumbik,2021-22,454,2022-06-30 00:00:00,719.9
+243,North West Metro,North Eastern Melbourne,Nillumbik,2022-23,419,2023-06-30 00:00:00,662.3
+322,North West Metro,North Eastern Melbourne,Nillumbik,2023-24,440,2024-06-30 00:00:00,695.3
+7,North West Metro,North Eastern Melbourne,Whittlesea,2019-20,3328,2020-06-30 00:00:00,1440.4
+86,North West Metro,North Eastern Melbourne,Whittlesea,2020-21,3307,2021-06-30 00:00:00,1426.5
+165,North West Metro,North Eastern Melbourne,Whittlesea,2021-22,2951,2022-06-30 00:00:00,1244.4
+244,North West Metro,North Eastern Melbourne,Whittlesea,2022-23,2637,2023-06-30 00:00:00,1076.2
+323,North West Metro,North Eastern Melbourne,Whittlesea,2023-24,2888,2024-06-30 00:00:00,1149.2
+8,North West Metro,North Eastern Melbourne,Yarra,2019-20,1139,2020-06-30 00:00:00,1178.3
+87,North West Metro,North Eastern Melbourne,Yarra,2020-21,1155,2021-06-30 00:00:00,1262
+166,North West Metro,North Eastern Melbourne,Yarra,2021-22,1124,2022-06-30 00:00:00,1216.6
+245,North West Metro,North Eastern Melbourne,Yarra,2022-23,1056,2023-06-30 00:00:00,1083.7
+324,North West Metro,North Eastern Melbourne,Yarra,2023-24,1036,2024-06-30 00:00:00,1031.2
+9,North West Metro,Western Melbourne,Hobsons Bay,2019-20,1114,2020-06-30 00:00:00,1170.3
+88,North West Metro,Western Melbourne,Hobsons Bay,2020-21,1086,2021-06-30 00:00:00,1177
+167,North West Metro,Western Melbourne,Hobsons Bay,2021-22,1027,2022-06-30 00:00:00,1118
+246,North West Metro,Western Melbourne,Hobsons Bay,2022-23,991,2023-06-30 00:00:00,1057.2
+325,North West Metro,Western Melbourne,Hobsons Bay,2023-24,1028,2024-06-30 00:00:00,1083.1
+10,North West Metro,Western Melbourne,Maribyrnong,2019-20,902,2020-06-30 00:00:00,1008.7
+89,North West Metro,Western Melbourne,Maribyrnong,2020-21,968,2021-06-30 00:00:00,1120.6
+168,North West Metro,Western Melbourne,Maribyrnong,2021-22,1024,2022-06-30 00:00:00,1168.9
+247,North West Metro,Western Melbourne,Maribyrnong,2022-23,1216,2023-06-30 00:00:00,1325.2
+326,North West Metro,Western Melbourne,Maribyrnong,2023-24,1118,2024-06-30 00:00:00,1190.8
+11,North West Metro,Western Melbourne,Melbourne,2019-20,1780,2020-06-30 00:00:00,1043.4
+90,North West Metro,Western Melbourne,Melbourne,2020-21,2137,2021-06-30 00:00:00,1395.7
+169,North West Metro,Western Melbourne,Melbourne,2021-22,2168,2022-06-30 00:00:00,1352.2
+248,North West Metro,Western Melbourne,Melbourne,2022-23,2118,2023-06-30 00:00:00,1193.9
+327,North West Metro,Western Melbourne,Melbourne,2023-24,2138,2024-06-30 00:00:00,1104.5
+12,North West Metro,Western Melbourne,Moonee Valley,2019-20,1165,2020-06-30 00:00:00,918.9
+91,North West Metro,Western Melbourne,Moonee Valley,2020-21,1233,2021-06-30 00:00:00,1002.8
+170,North West Metro,Western Melbourne,Moonee Valley,2021-22,1205,2022-06-30 00:00:00,978.7
+249,North West Metro,Western Melbourne,Moonee Valley,2022-23,1264,2023-06-30 00:00:00,999.3
+328,North West Metro,Western Melbourne,Moonee Valley,2023-24,1356,2024-06-30 00:00:00,1038.2
+13,North West Metro,Western Melbourne,Wyndham,2019-20,3423,2020-06-30 00:00:00,1191.5
+92,North West Metro,Western Melbourne,Wyndham,2020-21,3975,2021-06-30 00:00:00,1341.4
+171,North West Metro,Western Melbourne,Wyndham,2021-22,4030,2022-06-30 00:00:00,1302.5
+250,North West Metro,Western Melbourne,Wyndham,2022-23,4496,2023-06-30 00:00:00,1387.3
+329,North West Metro,Western Melbourne,Wyndham,2023-24,4390,2024-06-30 00:00:00,1304.5
+39,Southern Metro,Bayside Peninsula,Bayside,2019-20,709,2020-06-30 00:00:00,675.1
+118,Southern Metro,Bayside Peninsula,Bayside,2020-21,752,2021-06-30 00:00:00,734.9
+197,Southern Metro,Bayside Peninsula,Bayside,2021-22,762,2022-06-30 00:00:00,745.3
+276,Southern Metro,Bayside Peninsula,Bayside,2022-23,797,2023-06-30 00:00:00,764.3
+355,Southern Metro,Bayside Peninsula,Bayside,2023-24,744,2024-06-30 00:00:00,692.7
+40,Southern Metro,Bayside Peninsula,Frankston,2019-20,2725,2020-06-30 00:00:00,1916.4
+119,Southern Metro,Bayside Peninsula,Frankston,2020-21,2723,2021-06-30 00:00:00,1933.6
+198,Southern Metro,Bayside Peninsula,Frankston,2021-22,2606,2022-06-30 00:00:00,1846.1
+277,Southern Metro,Bayside Peninsula,Frankston,2022-23,2636,2023-06-30 00:00:00,1845.6
+356,Southern Metro,Bayside Peninsula,Frankston,2023-24,3051,2024-06-30 00:00:00,2114
+41,Southern Metro,Bayside Peninsula,Glen Eira,2019-20,1043,2020-06-30 00:00:00,674.4
+120,Southern Metro,Bayside Peninsula,Glen Eira,2020-21,1089,2021-06-30 00:00:00,722.9
+199,Southern Metro,Bayside Peninsula,Glen Eira,2021-22,1197,2022-06-30 00:00:00,788.4
+278,Southern Metro,Bayside Peninsula,Glen Eira,2022-23,1127,2023-06-30 00:00:00,718.6
+357,Southern Metro,Bayside Peninsula,Glen Eira,2023-24,1090,2024-06-30 00:00:00,678.5
+42,Southern Metro,Bayside Peninsula,Kingston,2019-20,1693,2020-06-30 00:00:00,1037.4
+121,Southern Metro,Bayside Peninsula,Kingston,2020-21,1692,2021-06-30 00:00:00,1060.5
+200,Southern Metro,Bayside Peninsula,Kingston,2021-22,1845,2022-06-30 00:00:00,1152.4
+279,Southern Metro,Bayside Peninsula,Kingston,2022-23,1849,2023-06-30 00:00:00,1129.3
+358,Southern Metro,Bayside Peninsula,Kingston,2023-24,1823,2024-06-30 00:00:00,1094.1
+43,Southern Metro,Bayside Peninsula,Mornington Peninsula,2019-20,2211,2020-06-30 00:00:00,1299.2
+122,Southern Metro,Bayside Peninsula,Mornington Peninsula,2020-21,2158,2021-06-30 00:00:00,1266.1
+201,Southern Metro,Bayside Peninsula,Mornington Peninsula,2021-22,2041,2022-06-30 00:00:00,1202.5
+280,Southern Metro,Bayside Peninsula,Mornington Peninsula,2022-23,1950,2023-06-30 00:00:00,1145.4
+359,Southern Metro,Bayside Peninsula,Mornington Peninsula,2023-24,2281,2024-06-30 00:00:00,1335.9
+44,Southern Metro,Bayside Peninsula,Port Phillip,2019-20,1353,2020-06-30 00:00:00,1223.6
+123,Southern Metro,Bayside Peninsula,Port Phillip,2020-21,1394,2021-06-30 00:00:00,1347.7
+202,Southern Metro,Bayside Peninsula,Port Phillip,2021-22,1401,2022-06-30 00:00:00,1345.9
+281,Southern Metro,Bayside Peninsula,Port Phillip,2022-23,1441,2023-06-30 00:00:00,1315.8
+360,Southern Metro,Bayside Peninsula,Port Phillip,2023-24,1357,2024-06-30 00:00:00,1199.8
+45,Southern Metro,Bayside Peninsula,Stonnington,2019-20,1040,2020-06-30 00:00:00,923.5
+124,Southern Metro,Bayside Peninsula,Stonnington,2020-21,1009,2021-06-30 00:00:00,950.2
+203,Southern Metro,Bayside Peninsula,Stonnington,2021-22,891,2022-06-30 00:00:00,836.4
+282,Southern Metro,Bayside Peninsula,Stonnington,2022-23,968,2023-06-30 00:00:00,869.4
+361,Southern Metro,Bayside Peninsula,Stonnington,2023-24,943,2024-06-30 00:00:00,812.9
+46,Southern Metro,Southern Melbourne,Cardinia,2019-20,1522,2020-06-30 00:00:00,1306.4
+125,Southern Metro,Southern Melbourne,Cardinia,2020-21,1548,2021-06-30 00:00:00,1294.6
+204,Southern Metro,Southern Melbourne,Cardinia,2021-22,1577,2022-06-30 00:00:00,1280.2
+283,Southern Metro,Southern Melbourne,Cardinia,2022-23,1559,2023-06-30 00:00:00,1227.9
+362,Southern Metro,Southern Melbourne,Cardinia,2023-24,1699,2024-06-30 00:00:00,1306.1
+47,Southern Metro,Southern Melbourne,Casey,2019-20,5057,2020-06-30 00:00:00,1389.4
+126,Southern Metro,Southern Melbourne,Casey,2020-21,5492,2021-06-30 00:00:00,1486.1
+205,Southern Metro,Southern Melbourne,Casey,2021-22,5007,2022-06-30 00:00:00,1320.7
+284,Southern Metro,Southern Melbourne,Casey,2022-23,5428,2023-06-30 00:00:00,1384.3
+363,Southern Metro,Southern Melbourne,Casey,2023-24,5738,2024-06-30 00:00:00,1425
+48,Southern Metro,Southern Melbourne,Greater Dandenong,2019-20,2778,2020-06-30 00:00:00,1677.1
+127,Southern Metro,Southern Melbourne,Greater Dandenong,2020-21,2787,2021-06-30 00:00:00,1740.8
+206,Southern Metro,Southern Melbourne,Greater Dandenong,2021-22,2516,2022-06-30 00:00:00,1579.5
+285,Southern Metro,Southern Melbourne,Greater Dandenong,2022-23,2652,2023-06-30 00:00:00,1619.1
+364,Southern Metro,Southern Melbourne,Greater Dandenong,2023-24,2651,2024-06-30 00:00:00,1590.9
+49,Western,Barwon,Colac-Otway,2019-20,377,2020-06-30 00:00:00,1692.6
+128,Western,Barwon,Colac-Otway,2020-21,418,2021-06-30 00:00:00,1873.7
+207,Western,Barwon,Colac-Otway,2021-22,393,2022-06-30 00:00:00,1770.4
+286,Western,Barwon,Colac-Otway,2022-23,418,2023-06-30 00:00:00,1876.7
+365,Western,Barwon,Colac-Otway,2023-24,452,2024-06-30 00:00:00,2017.8
+50,Western,Barwon,Greater Geelong,2019-20,3992,2020-06-30 00:00:00,1500.5
+129,Western,Barwon,Greater Geelong,2020-21,4315,2021-06-30 00:00:00,1592.7
+208,Western,Barwon,Greater Geelong,2021-22,4389,2022-06-30 00:00:00,1586.8
+287,Western,Barwon,Greater Geelong,2022-23,4865,2023-06-30 00:00:00,1720.2
+366,Western,Barwon,Greater Geelong,2023-24,5085,2024-06-30 00:00:00,1764.7
+51,Western,Barwon,Queenscliffe,2019-20,15,2020-06-30 00:00:00,484.7
+130,Western,Barwon,Queenscliffe,2020-21,15,2021-06-30 00:00:00,463.5
+209,Western,Barwon,Queenscliffe,2021-22,14,2022-06-30 00:00:00,434.6
+288,Western,Barwon,Queenscliffe,2022-23,10,2023-06-30 00:00:00,308.8
+367,Western,Barwon,Queenscliffe,2023-24,18,2024-06-30 00:00:00,535.4
+52,Western,Barwon,Surf Coast,2019-20,288,2020-06-30 00:00:00,803.9
+131,Western,Barwon,Surf Coast,2020-21,295,2021-06-30 00:00:00,783.6
+210,Western,Barwon,Surf Coast,2021-22,304,2022-06-30 00:00:00,786.1
+289,Western,Barwon,Surf Coast,2022-23,271,2023-06-30 00:00:00,689.7
+368,Western,Barwon,Surf Coast,2023-24,269,2024-06-30 00:00:00,679.2
+53,Western,Central Highlands,Ararat,2019-20,298,2020-06-30 00:00:00,2500.4
+132,Western,Central Highlands,Ararat,2020-21,331,2021-06-30 00:00:00,2798.7
+211,Western,Central Highlands,Ararat,2021-22,265,2022-06-30 00:00:00,2253.8
+290,Western,Central Highlands,Ararat,2022-23,290,2023-06-30 00:00:00,2482.2
+369,Western,Central Highlands,Ararat,2023-24,326,2024-06-30 00:00:00,2782.4
+54,Western,Central Highlands,Ballarat,2019-20,1960,2020-06-30 00:00:00,1755.6
+133,Western,Central Highlands,Ballarat,2020-21,2369,2021-06-30 00:00:00,2087.2
+212,Western,Central Highlands,Ballarat,2021-22,2042,2022-06-30 00:00:00,1760.2
+291,Western,Central Highlands,Ballarat,2022-23,2235,2023-06-30 00:00:00,1891.9
+370,Western,Central Highlands,Ballarat,2023-24,2574,2024-06-30 00:00:00,2143.2
+55,Western,Central Highlands,Golden Plains,2019-20,139,2020-06-30 00:00:00,570.5
+134,Western,Central Highlands,Golden Plains,2020-21,186,2021-06-30 00:00:00,747.2
+213,Western,Central Highlands,Golden Plains,2021-22,177,2022-06-30 00:00:00,699
+292,Western,Central Highlands,Golden Plains,2022-23,236,2023-06-30 00:00:00,914.1
+371,Western,Central Highlands,Golden Plains,2023-24,226,2024-06-30 00:00:00,861.8
+56,Western,Central Highlands,Hepburn,2019-20,185,2020-06-30 00:00:00,1132.3
+135,Western,Central Highlands,Hepburn,2020-21,168,2021-06-30 00:00:00,1019.1
+214,Western,Central Highlands,Hepburn,2021-22,181,2022-06-30 00:00:00,1092.1
+293,Western,Central Highlands,Hepburn,2022-23,172,2023-06-30 00:00:00,1031.8
+372,Western,Central Highlands,Hepburn,2023-24,203,2024-06-30 00:00:00,1212.8
+57,Western,Central Highlands,Moorabool,2019-20,480,2020-06-30 00:00:00,1299.3
+136,Western,Central Highlands,Moorabool,2020-21,509,2021-06-30 00:00:00,1342.7
+215,Western,Central Highlands,Moorabool,2021-22,488,2022-06-30 00:00:00,1266.7
+294,Western,Central Highlands,Moorabool,2022-23,544,2023-06-30 00:00:00,1391.6
+373,Western,Central Highlands,Moorabool,2023-24,621,2024-06-30 00:00:00,1558.4
+58,Western,Central Highlands,Pyrenees,2019-20,93,2020-06-30 00:00:00,1232.8
+137,Western,Central Highlands,Pyrenees,2020-21,112,2021-06-30 00:00:00,1470
+216,Western,Central Highlands,Pyrenees,2021-22,87,2022-06-30 00:00:00,1136.8
+295,Western,Central Highlands,Pyrenees,2022-23,98,2023-06-30 00:00:00,1258.7
+374,Western,Central Highlands,Pyrenees,2023-24,119,2024-06-30 00:00:00,1511.2
+59,Western,Loddon,Campaspe,2019-20,728,2020-06-30 00:00:00,1896.9
+138,Western,Loddon,Campaspe,2020-21,781,2021-06-30 00:00:00,2025.6
+217,Western,Loddon,Campaspe,2021-22,886,2022-06-30 00:00:00,2298
+296,Western,Loddon,Campaspe,2022-23,768,2023-06-30 00:00:00,2005.3
+375,Western,Loddon,Campaspe,2023-24,831,2024-06-30 00:00:00,2173
+60,Western,Loddon,Central Goldfields,2019-20,377,2020-06-30 00:00:00,2833.7
+139,Western,Loddon,Central Goldfields,2020-21,320,2021-06-30 00:00:00,2390.2
+218,Western,Loddon,Central Goldfields,2021-22,339,2022-06-30 00:00:00,2507.4
+297,Western,Loddon,Central Goldfields,2022-23,374,2023-06-30 00:00:00,2755.3
+376,Western,Loddon,Central Goldfields,2023-24,355,2024-06-30 00:00:00,2597.4
+61,Western,Loddon,Greater Bendigo,2019-20,2040,2020-06-30 00:00:00,1700.6
+140,Western,Loddon,Greater Bendigo,2020-21,2528,2021-06-30 00:00:00,2084.6
+219,Western,Loddon,Greater Bendigo,2021-22,2225,2022-06-30 00:00:00,1813.3
+298,Western,Loddon,Greater Bendigo,2022-23,2476,2023-06-30 00:00:00,1994
+377,Western,Loddon,Greater Bendigo,2023-24,2589,2024-06-30 00:00:00,2064.5
+62,Western,Loddon,Loddon,2019-20,105,2020-06-30 00:00:00,1371.3
+141,Western,Loddon,Loddon,2020-21,137,2021-06-30 00:00:00,1778.5
+220,Western,Loddon,Loddon,2021-22,120,2022-06-30 00:00:00,1548.4
+299,Western,Loddon,Loddon,2022-23,120,2023-06-30 00:00:00,1549
+378,Western,Loddon,Loddon,2023-24,113,2024-06-30 00:00:00,1462.2
+63,Western,Loddon,Macedon Ranges,2019-20,466,2020-06-30 00:00:00,915.6
+142,Western,Loddon,Macedon Ranges,2020-21,443,2021-06-30 00:00:00,858.5
+221,Western,Loddon,Macedon Ranges,2021-22,465,2022-06-30 00:00:00,890.8
+300,Western,Loddon,Macedon Ranges,2022-23,470,2023-06-30 00:00:00,888.1
+379,Western,Loddon,Macedon Ranges,2023-24,523,2024-06-30 00:00:00,976.7
+64,Western,Loddon,Mount Alexander,2019-20,190,2020-06-30 00:00:00,952.9
+143,Western,Loddon,Mount Alexander,2020-21,201,2021-06-30 00:00:00,999.3
+222,Western,Loddon,Mount Alexander,2021-22,184,2022-06-30 00:00:00,905.3
+301,Western,Loddon,Mount Alexander,2022-23,232,2023-06-30 00:00:00,1127.5
+380,Western,Loddon,Mount Alexander,2023-24,221,2024-06-30 00:00:00,1061.8
+65,Western,Mallee,Buloke,2019-20,55,2020-06-30 00:00:00,893.4
+144,Western,Mallee,Buloke,2020-21,72,2021-06-30 00:00:00,1174.2
+223,Western,Mallee,Buloke,2021-22,79,2022-06-30 00:00:00,1290.8
+302,Western,Mallee,Buloke,2022-23,58,2023-06-30 00:00:00,960.3
+381,Western,Mallee,Buloke,2023-24,61,2024-06-30 00:00:00,1014.7
+66,Western,Mallee,Gannawarra,2019-20,202,2020-06-30 00:00:00,1910.2
+145,Western,Mallee,Gannawarra,2020-21,190,2021-06-30 00:00:00,1789.9
+224,Western,Mallee,Gannawarra,2021-22,161,2022-06-30 00:00:00,1528.4
+303,Western,Mallee,Gannawarra,2022-23,189,2023-06-30 00:00:00,1813.8
+382,Western,Mallee,Gannawarra,2023-24,212,2024-06-30 00:00:00,2041.8
+67,Western,Mallee,Mildura,2019-20,1672,2020-06-30 00:00:00,2916.2
+146,Western,Mallee,Mildura,2020-21,1635,2021-06-30 00:00:00,2870.1
+225,Western,Mallee,Mildura,2021-22,1991,2022-06-30 00:00:00,3477.7
+304,Western,Mallee,Mildura,2022-23,1941,2023-06-30 00:00:00,3372.5
+383,Western,Mallee,Mildura,2023-24,2090,2024-06-30 00:00:00,3610.3
+68,Western,Mallee,Swan Hill,2019-20,603,2020-06-30 00:00:00,2804.8
+147,Western,Mallee,Swan Hill,2020-21,679,2021-06-30 00:00:00,3175.7
+226,Western,Mallee,Swan Hill,2021-22,604,2022-06-30 00:00:00,2843.8
+305,Western,Mallee,Swan Hill,2022-23,579,2023-06-30 00:00:00,2729.6
+384,Western,Mallee,Swan Hill,2023-24,698,2024-06-30 00:00:00,3295.5
+69,Western,Western District,Corangamite,2019-20,156,2020-06-30 00:00:00,968.5
+148,Western,Western District,Corangamite,2020-21,147,2021-06-30 00:00:00,917
+227,Western,Western District,Corangamite,2021-22,163,2022-06-30 00:00:00,1018.8
+306,Western,Western District,Corangamite,2022-23,175,2023-06-30 00:00:00,1097.3
+385,Western,Western District,Corangamite,2023-24,215,2024-06-30 00:00:00,1346.3
+70,Western,Western District,Glenelg,2019-20,365,2020-06-30 00:00:00,1820
+149,Western,Western District,Glenelg,2020-21,428,2021-06-30 00:00:00,2133.8
+228,Western,Western District,Glenelg,2021-22,413,2022-06-30 00:00:00,2060
+307,Western,Western District,Glenelg,2022-23,424,2023-06-30 00:00:00,2117.7
+386,Western,Western District,Glenelg,2023-24,484,2024-06-30 00:00:00,2414.6
+71,Western,Western District,Hindmarsh,2019-20,56,2020-06-30 00:00:00,988
+150,Western,Western District,Hindmarsh,2020-21,110,2021-06-30 00:00:00,1944.8
+229,Western,Western District,Hindmarsh,2021-22,81,2022-06-30 00:00:00,1446.2
+308,Western,Western District,Hindmarsh,2022-23,88,2023-06-30 00:00:00,1583
+387,Western,Western District,Hindmarsh,2023-24,99,2024-06-30 00:00:00,1781.3
+72,Western,Western District,Horsham,2019-20,550,2020-06-30 00:00:00,2698.1
+151,Western,Western District,Horsham,2020-21,543,2021-06-30 00:00:00,2664.9
+230,Western,Western District,Horsham,2021-22,511,2022-06-30 00:00:00,2511.3
+309,Western,Western District,Horsham,2022-23,592,2023-06-30 00:00:00,2914.1
+388,Western,Western District,Horsham,2023-24,698,2024-06-30 00:00:00,3436.9
+73,Western,Western District,Moyne,2019-20,170,2020-06-30 00:00:00,994.7
+152,Western,Western District,Moyne,2020-21,191,2021-06-30 00:00:00,1104.3
+231,Western,Western District,Moyne,2021-22,173,2022-06-30 00:00:00,989.8
+310,Western,Western District,Moyne,2022-23,175,2023-06-30 00:00:00,993.8
+389,Western,Western District,Moyne,2023-24,195,2024-06-30 00:00:00,1096.4
+74,Western,Western District,Northern Grampians,2019-20,238,2020-06-30 00:00:00,2016.1
+153,Western,Western District,Northern Grampians,2020-21,299,2021-06-30 00:00:00,2515.6
+232,Western,Western District,Northern Grampians,2021-22,273,2022-06-30 00:00:00,2298.2
+311,Western,Western District,Northern Grampians,2022-23,297,2023-06-30 00:00:00,2500.2
+390,Western,Western District,Northern Grampians,2023-24,366,2024-06-30 00:00:00,3077.5
+75,Western,Western District,Southern Grampians,2019-20,265,2020-06-30 00:00:00,1605.5
+154,Western,Western District,Southern Grampians,2020-21,306,2021-06-30 00:00:00,1855.4
+233,Western,Western District,Southern Grampians,2021-22,240,2022-06-30 00:00:00,1463.3
+312,Western,Western District,Southern Grampians,2022-23,284,2023-06-30 00:00:00,1724.3
+391,Western,Western District,Southern Grampians,2023-24,362,2024-06-30 00:00:00,2187.3
+76,Western,Western District,Warrnambool,2019-20,615,2020-06-30 00:00:00,1736.4
+155,Western,Western District,Warrnambool,2020-21,638,2021-06-30 00:00:00,1800.6
+234,Western,Western District,Warrnambool,2021-22,651,2022-06-30 00:00:00,1829.9
+313,Western,Western District,Warrnambool,2022-23,731,2023-06-30 00:00:00,2035.8
+392,Western,Western District,Warrnambool,2023-24,762,2024-06-30 00:00:00,2109.5
+77,Western,Western District,West Wimmera,2019-20,35,2020-06-30 00:00:00,876.3
+156,Western,Western District,West Wimmera,2020-21,42,2021-06-30 00:00:00,1055.8
+235,Western,Western District,West Wimmera,2021-22,46,2022-06-30 00:00:00,1166.6
+314,Western,Western District,West Wimmera,2022-23,42,2023-06-30 00:00:00,1067.9
+393,Western,Western District,West Wimmera,2023-24,64,2024-06-30 00:00:00,1634.5
+78,Western,Western District,Yarriambiack,2019-20,114,2020-06-30 00:00:00,1716.6
+157,Western,Western District,Yarriambiack,2020-21,105,2021-06-30 00:00:00,1612.9
+236,Western,Western District,Yarriambiack,2021-22,97,2022-06-30 00:00:00,1506.9
+315,Western,Western District,Yarriambiack,2022-23,123,2023-06-30 00:00:00,1925.2
+394,Western,Western District,Yarriambiack,2023-24,124,2024-06-30 00:00:00,1951.7
