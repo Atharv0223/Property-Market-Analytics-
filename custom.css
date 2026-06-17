@@ -1,0 +1,66 @@
+/* ------------------------------------------------------------------
+ * Custom CSS to refine the look and feel of the DVP dashboard.
+ *
+ * These styles give each section of the narrative its own card‑like
+ * container with subtle shadows and padding.  KPI cards are gently
+ * rounded and spaced.  We also adjust the play button and pill
+ * navigation styles to complement the Bootstrap Flatly theme.
+ */
+
+body {
+  background-color: #f5f7fa;
+}
+
+.section {
+  padding: 40px 24px;
+  margin-bottom: 32px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.story-block {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.6;
+}
+
+.card {
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+.card-title {
+  font-weight: 600;
+  color: #34495e;
+}
+
+.card-text {
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  font-weight: 500;
+}
+
+/* Play button styling */
+#play_pause.btn-success {
+  background-color: #1abc9c;
+  border-color: #16a085;
+  color: #ffffff;
+}
+#play_pause.btn-success:hover {
+  background-color: #16a085;
+  border-color: #149174;
+}
+
+.tab-pane {
+  padding-top: 15px;
+}
+
+.table.dataTable {
+  width: 100% !important;
+}
